@@ -1,0 +1,6 @@
+ Hii my Name is Abdallah, I made this to learn files. Alamin came to check my code the next day :)python -u "c:\Users\LAT7400\Desktop\Journal-cli\journal.py"
+
+
+Hi please let this work
+Baa Baa black sheep have you any wool?
+
