@@ -1,6 +1,6 @@
- Hii my Name is Abdallah, I made this to learn files. Alamin came to check my code the next day :)python -u "c:\Users\LAT7400\Desktop\Journal-cli\journal.py"
+Date and time is: 2026-06-28 14:11:54.388011
 
-
-Hi please let this work
-Baa Baa black sheep have you any wool?
+Hii today i completed the first version of the Journal
+it was fun but still very confusing can't wait to come make more updated to it.
+i still am a bit confused but i'll figure it out :)) 
 
